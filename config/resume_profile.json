@@ -1,0 +1,41 @@
+{
+  "name": "Sanchita Giri",
+  "currentRole": "QA Automation Engineer",
+  "experience": "4",
+  "skills": [
+    "Selenium",
+    "Java",
+    "TestNG",
+    "Playwright",
+    "API Testing",
+    "SQL",
+    "REST APIs",
+    "Git",
+    "Jenkins",
+    "Manual Testing",
+    "Test Automation",
+    "Performance Testing"
+  ],
+  "projects": [
+    "E-commerce web application automation testing using Selenium and Java",
+    "Payment gateway API testing with REST Assured",
+    "Mobile app testing automation with Appium",
+    "CI/CD pipeline automation with Jenkins for QA",
+    "Web application performance testing with JMeter"
+  ],
+  "certifications": [
+    "ISTQB Certified Tester",
+    "Selenium Certified Professional"
+  ],
+  "domain": "E-commerce, FinTech, SaaS",
+  "strengths": [
+    "Strong understanding of SDLC and testing methodologies",
+    "Expertise in designing and executing comprehensive test plans",
+    "Proficient in writing maintainable, scalable automation scripts",
+    "Experience with CI/CD pipelines and DevOps practices",
+    "Excellent communication and documentation skills"
+  ],
+  "whyThisRole": "I am excited about this opportunity because it aligns with my career goals in automation testing and allows me to work with cutting-edge technologies. I am keen to contribute to a team that values quality assurance and continuous improvement.",
+  "relevantExperience": "I have successfully automated complex test scenarios, reduced manual testing efforts by 70%, and improved overall product quality through comprehensive test coverage.",
+  "teamworkExample": "In my previous project, I collaborated with developers and business analysts to understand requirements better, identified critical edge cases, and reported issues in a structured manner that helped accelerate the development cycle."
+}

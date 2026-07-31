@@ -1,0 +1,7 @@
+target/
+.brew-cache/
+.vscode/
+.idea/
+.DS_Store
+session/storage_state.json
+*.log
